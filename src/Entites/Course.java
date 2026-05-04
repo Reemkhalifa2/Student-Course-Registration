@@ -1,6 +1,6 @@
 package Entites;
 
-public class Course {
+public class Course extends ParentEntity{
 
 
     public String getCourseCode() {
